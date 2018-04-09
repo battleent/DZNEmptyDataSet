@@ -50,9 +50,9 @@ By just conforming to DZNEmptyDataSetSource & DZNEmptyDataSetDelegate, you will 
 
 ## Installation
 
-Available in [CocoaPods](http://cocoapods.org/?q=BNTEmptyDataSet)
+Available in [CocoaPods](http://cocoapods.org/?q=BCEmptyDataSet)
 ```ruby
-pod 'BNTEmptyDataSet'
+pod 'BCEmptyDataSet'
 ```
 
 To integrate DZNEmptyDataSet into your Xcode project using Carthage, specify it in your `Cartfile`:
@@ -71,7 +71,7 @@ For complete documentation, [visit CocoaPods' auto-generated doc](http://cocoado
 ```
 Unless you are importing as a framework, then do:
 ```objc
-#import <BNTEmptyDataSet/UIScrollView+EmptyDataSet.h>
+#import <BCEmptyDataSet/UIScrollView+EmptyDataSet.h>
 ```
 
 ### Protocol Conformance
